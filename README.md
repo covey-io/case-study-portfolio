@@ -5,6 +5,7 @@ The purpose of this case study is build a portfolio calculator by completing the
 calculate_portfolio(address,10000)
 
 For the following addresses
+
 0x41da2035ac26e4308b624a84d3caebf80a4dccf1
 0x211fe601e24ce89cb443356f687c67fbf7708412
 
@@ -26,6 +27,6 @@ For the following addresses
   f) entry price is the next price after the entry_date associated with the trade.
 
 # Output 
-4) The output will use the pre-set columns to produce two CSVs: 
+  The output will use the pre-set columns to produce two CSVs: 
   a) CSV for trade table using pre-set columns. Don't add columns, everything you need is here.
   b) CSV for a portfolio table calculated at the same date_time intervals as prices.csv. Again, don't add columns. 
